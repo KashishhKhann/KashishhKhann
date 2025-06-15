@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KashishhKhann
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Virtual Voice Assistant
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
