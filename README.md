@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KashishhKhann
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on GraphRAG
 - 📫 How to reach me ...
 
 <!---
