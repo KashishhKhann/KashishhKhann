@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @KashishhKhann
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on GraphRAG
-- 📫 How to reach me ...
+# Kashish Khan
 
-<!---
-KashishhKhann/KashishhKhann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AI/ML developer building RAG systems and LLM-powered tools. Based in Dublin.
+
+## What I'm building
+
+- **[medical-rag-system](https://github.com/KashishhKhann/medical-rag-system)** — End-to-end medical RAG pipeline with FAISS, Neo4j knowledge graphs, and BioClinicalBERT embeddings over clinical notes
+- **[lette-inbox-copilot](https://github.com/KashishhKhann/lette-inbox-copilot)** — Streamlit app for property management inbox triage using LLM enrichment and deterministic urgency scoring
+
+## Tech
+
+Python · RAG · LLMs · FAISS · Neo4j · MongoDB · Streamlit · OpenAI API
+
+## Links
+
+- LinkedIn: [kashish-khan-258b72305](https://www.linkedin.com/in/kashish-khan-258b72305/)
+- Open to collaborating on GraphRAG projects — reach out via LinkedIn
