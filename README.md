@@ -13,5 +13,5 @@ Python · RAG · LLMs · FAISS · Neo4j · MongoDB · Streamlit · OpenAI API
 
 ## Links
 
-- LinkedIn: [kashish-khan-258b72305](https://www.linkedin.com/in/kashish-khan-258b72305/)
+- LinkedIn: [kashish-khan-ai](https://www.linkedin.com/in/kashish-khan-ai/)
 - Open to collaborating on GraphRAG projects — reach out via LinkedIn
