@@ -13,5 +13,6 @@ Python · RAG · LLMs · FAISS · Neo4j · MongoDB · Streamlit · OpenAI API
 
 ## Links
 
+- Portfolio: [portfolio-two-jade-63.vercel.app](https://portfolio-two-jade-63.vercel.app/)
 - LinkedIn: [kashish-khan-ai](https://www.linkedin.com/in/kashish-khan-ai/)
 - Open to collaborating on GraphRAG projects — reach out via LinkedIn
